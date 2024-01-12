@@ -1,1 +1,5 @@
+# EclipseDrivers
+
+## Contains all of Eclipse's core drivers
+
 This file structure might seem wierd at first, but that's ok. To use, move the EclipseDrivers folder to your Arduino/libraries folder. If you get compilation errors about not finding certain stuff, try moving all the drivers in the drivers subfolder outside that subfolder, into the EclipseDrivers folder.
