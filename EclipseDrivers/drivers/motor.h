@@ -22,7 +22,7 @@ struct EclipseDriverMotorConfig {
 
 };
 
-static EclipseDriverMotorConfig getDefaultConfig() {
+static EclipseDriverMotorConfig getDefaultMotorConfig() {
 
 	EclipseDriverMotorConfig config;
 
